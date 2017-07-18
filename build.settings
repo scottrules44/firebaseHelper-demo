@@ -5,6 +5,9 @@
 
 settings =
 {
+    android= {
+		useGoogleServicesJson = true,
+	},
     plugins =
     {
          ["plugin.firebaseDatabase"] = {
