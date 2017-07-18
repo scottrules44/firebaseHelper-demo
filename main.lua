@@ -1,2 +1,2 @@
-local firebase = require("firebase")
+local firebase = require("plugin.firebase")
 firebase.init()
